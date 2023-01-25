@@ -1,0 +1,47 @@
+escape sequence character --> 
+\a  =>  audiable sound 
+\b  =>  backspace 
+\n  => new line 
+\r  => carriage return 
+\s* => space 
+\t => tab 5 vertical space 
+
+
+
+*       *
+ *     *
+  *   *
+    *
+
+  
+
+  data -> printf -> type => format specifier 
+
+//variable -> value 
+
+  a = 10; 
+  b = 20 ;
+  c = a+b ; 
+
+//data type -- int {1,22,55} , float{22.5,55.5} ,double{55.55} ,char = 'a'  
+int a = 10; 
+
+int --> %d 
+char --> %c 
+float --> %f 
+double --> %lf 
+
+
+    int 
+positive    neg 
+
+int -> signed int [ 25  -25 ]
+unsigned int a;  [ 25 ][ positive ]
+
+long int; %lu
+
+
+flot -> byte->
+
+int a = 10  ; //10 value 
+size_t b = 10;//10 byte 
