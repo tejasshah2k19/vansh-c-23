@@ -1,1 +1,1 @@
-"\n%
+display(&a,totalElelemt);
